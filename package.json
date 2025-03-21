@@ -1,0 +1,16 @@
+{
+  "name": "hotel-management",
+  "version": "1.0.0",
+  "description": "Technologies used: React Js, Node Js, MongoDB, Express",
+  "main": "index.js",
+  "scripts": {
+    "install-server": "cd backend && npm install",
+    "start-server": "cd backend && node server.js",
+    "install-client": "cd frontend && npm install",
+    "build-client": "cd frontend && npm run build",
+    "start-client": "cd frontend && npm run start"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
